@@ -10,25 +10,15 @@ package Modulos;
  * @author dayan
  */
 public class Problema {
-    private int id;
     private String desarrollo;
     private int objArea;
 
     public Problema() {
     }
 
-    public Problema(int id, String desarrollo, int objArea) {
-        this.id = id;
+    public Problema(String desarrollo, int objArea) {
         this.desarrollo = desarrollo;
         this.objArea = objArea;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public String getDesarrollo() {

@@ -40,10 +40,9 @@ public class CargaPreguntas {
         listaPreguntas.add(new Preguntas("¿Cuál es el objetivo del modelo de dominio?", objArea));
         listaPreguntas.add(new Preguntas("¿Cuál es el uso de un modelo de dominio?", objArea));
         listaPreguntas.add(new Preguntas("¿Cómo se describe el modelo de dominio?", objArea));
-        listaPreguntas.add(new Preguntas("¿Cuál es el objetivo de un modelo de dominio?", objArea));
         listaPreguntas.add(new Preguntas("¿Cómo se elabora el modelo de dominio?", objArea));
         listaPreguntas.add(new Preguntas("¿Qué es Scrum?", objArea));
-        listaPreguntas.add(new Preguntas("¿Cómo es el proceso?", objArea));
+        listaPreguntas.add(new Preguntas("¿Cómo es el proceso de Scrum?", objArea));
         listaPreguntas.add(new Preguntas("¿Cuáles son las características de un manifiesto ágil?", objArea));
         listaPreguntas.add(new Preguntas("¿Cómo se compone el marco de trabajo Scrum?", objArea));
         listaPreguntas.add(new Preguntas("¿Cuál es el papel que cumple el rol del Product Owner en Scrum?", objArea));
